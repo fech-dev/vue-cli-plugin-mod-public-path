@@ -1,0 +1,8 @@
+{
+  "name": "vue-cli-plugin-mod-public-path",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/fech-dev/vue-cli-plugin-mod-public-path.git",
+  "author": "Federico <federico_mameli@yahoo.com>",
+  "license": "MIT"
+}
